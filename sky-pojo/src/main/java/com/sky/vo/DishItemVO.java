@@ -16,6 +16,8 @@ public class DishItemVO implements Serializable {
     //菜品名称
     private String name;
 
+    private Long id;
+
     //份数
     private Integer copies;
 
